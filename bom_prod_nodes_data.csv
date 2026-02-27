@@ -1,0 +1,493 @@
+id,label,group,level,shape,color,font.size,font.color,node_type,product_id
+P01,Garam Masala 250gm,Product,1,box,#2E8B57,16,white,BOM,P01
+PK001,Primary Pouch,Packaging,3,box,NA,10,NA,BOM,P01
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P01
+SF001,Garam Masala Base Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P01
+RM001,Coriander Seeds,Raw Material,5,box,NA,10,NA,BOM,P01
+RM002,Cumin Seeds,Raw Material,5,box,NA,10,NA,BOM,P01
+RM003,Black Pepper,Raw Material,5,box,NA,10,NA,BOM,P01
+RM004,Cinnamon Sticks,Raw Material,5,box,NA,10,NA,BOM,P01
+RM005,Green Cardamom,Raw Material,5,box,NA,10,NA,BOM,P01
+RM006,Bay Leaves,Raw Material,5,box,NA,10,NA,BOM,P01
+BM001,Fresh Coriander Seeds,Base Material,7,box,NA,10,NA,BOM,P01
+BM002,Fresh Cumin Seeds,Base Material,7,box,NA,10,NA,BOM,P01
+BM003,Fresh Black Peppercorns,Base Material,7,box,NA,10,NA,BOM,P01
+R001,Spice Grinder A1,Resource,6,circle,#32CD32,10,black,Production,P01
+R002,Blending Machine A1,Resource,4,circle,#32CD32,10,black,Production,P01
+R003,Packaging Line A1,Resource,2,circle,#32CD32,10,black,Production,P01
+P02,Sambar Powder 250gm,Product,1,box,#2E8B57,16,white,BOM,P02
+PK001,Primary Pouch,Packaging,3,box,NA,10,NA,BOM,P02
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P02
+SF002,Sambar Powder Base Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P02
+RM001,Coriander Seeds,Raw Material,5,box,NA,10,NA,BOM,P02
+RM007,Red Chili Powder,Raw Material,5,box,NA,10,NA,BOM,P02
+RM008,Turmeric Powder,Raw Material,5,box,NA,10,NA,BOM,P02
+RM009,Fenugreek Seeds,Raw Material,5,box,NA,10,NA,BOM,P02
+RM010,Asafoetida,Raw Material,5,box,NA,10,NA,BOM,P02
+BM001,Fresh Coriander Seeds,Base Material,7,box,NA,10,NA,BOM,P02
+BM004,Fresh Red Chilies,Base Material,7,box,NA,10,NA,BOM,P02
+BM005,Fresh Turmeric Roots,Base Material,7,box,NA,10,NA,BOM,P02
+R004,Spice Grinder B1,Resource,6,circle,#32CD32,10,black,Production,P02
+R005,Blending Machine B1,Resource,4,circle,#32CD32,10,black,Production,P02
+R006,Packaging Line B1,Resource,2,circle,#32CD32,10,black,Production,P02
+P03,Sambar Powder 500gm,Product,1,box,#2E8B57,16,white,BOM,P03
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P03
+PK003,Medium Pouch,Packaging,3,box,NA,10,NA,BOM,P03
+SF002,Sambar Powder Base Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P03
+RM001,Coriander Seeds,Raw Material,5,box,NA,10,NA,BOM,P03
+RM007,Red Chili Powder,Raw Material,5,box,NA,10,NA,BOM,P03
+RM008,Turmeric Powder,Raw Material,5,box,NA,10,NA,BOM,P03
+RM009,Fenugreek Seeds,Raw Material,5,box,NA,10,NA,BOM,P03
+RM010,Asafoetida,Raw Material,5,box,NA,10,NA,BOM,P03
+BM001,Fresh Coriander Seeds,Base Material,7,box,NA,10,NA,BOM,P03
+BM004,Fresh Red Chilies,Base Material,7,box,NA,10,NA,BOM,P03
+BM005,Fresh Turmeric Roots,Base Material,7,box,NA,10,NA,BOM,P03
+R004,Spice Grinder B1,Resource,6,circle,#32CD32,10,black,Production,P03
+R005,Blending Machine B1,Resource,4,circle,#32CD32,10,black,Production,P03
+R006,Packaging Line B1,Resource,2,circle,#32CD32,10,black,Production,P03
+P04,Sambar Powder 1kg,Product,1,box,#2E8B57,16,white,BOM,P04
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P04
+PK004,Large Pouch,Packaging,3,box,NA,10,NA,BOM,P04
+SF002,Sambar Powder Base Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P04
+RM001,Coriander Seeds,Raw Material,5,box,NA,10,NA,BOM,P04
+RM007,Red Chili Powder,Raw Material,5,box,NA,10,NA,BOM,P04
+RM008,Turmeric Powder,Raw Material,5,box,NA,10,NA,BOM,P04
+RM009,Fenugreek Seeds,Raw Material,5,box,NA,10,NA,BOM,P04
+RM010,Asafoetida,Raw Material,5,box,NA,10,NA,BOM,P04
+BM001,Fresh Coriander Seeds,Base Material,7,box,NA,10,NA,BOM,P04
+BM004,Fresh Red Chilies,Base Material,7,box,NA,10,NA,BOM,P04
+BM005,Fresh Turmeric Roots,Base Material,7,box,NA,10,NA,BOM,P04
+R004,Spice Grinder B1,Resource,6,circle,#32CD32,10,black,Production,P04
+R005,Blending Machine B1,Resource,4,circle,#32CD32,10,black,Production,P04
+R006,Packaging Line B1,Resource,2,circle,#32CD32,10,black,Production,P04
+P05,Sambar Powder 100gm,Product,1,box,#2E8B57,16,white,BOM,P05
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P05
+PK005,Small Pouch,Packaging,3,box,NA,10,NA,BOM,P05
+SF002,Sambar Powder Base Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P05
+RM001,Coriander Seeds,Raw Material,5,box,NA,10,NA,BOM,P05
+RM007,Red Chili Powder,Raw Material,5,box,NA,10,NA,BOM,P05
+RM008,Turmeric Powder,Raw Material,5,box,NA,10,NA,BOM,P05
+RM009,Fenugreek Seeds,Raw Material,5,box,NA,10,NA,BOM,P05
+RM010,Asafoetida,Raw Material,5,box,NA,10,NA,BOM,P05
+BM001,Fresh Coriander Seeds,Base Material,7,box,NA,10,NA,BOM,P05
+BM004,Fresh Red Chilies,Base Material,7,box,NA,10,NA,BOM,P05
+BM005,Fresh Turmeric Roots,Base Material,7,box,NA,10,NA,BOM,P05
+R007,Spice Grinder C1,Resource,6,circle,#32CD32,10,black,Production,P05
+R008,Blending Machine C1,Resource,4,circle,#32CD32,10,black,Production,P05
+R009,Packaging Line C1,Resource,2,circle,#32CD32,10,black,Production,P05
+P06,Garam Masala 500gm,Product,1,box,#2E8B57,16,white,BOM,P06
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P06
+PK003,Medium Pouch,Packaging,3,box,NA,10,NA,BOM,P06
+SF001,Garam Masala Base Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P06
+RM001,Coriander Seeds,Raw Material,5,box,NA,10,NA,BOM,P06
+RM002,Cumin Seeds,Raw Material,5,box,NA,10,NA,BOM,P06
+RM003,Black Pepper,Raw Material,5,box,NA,10,NA,BOM,P06
+RM004,Cinnamon Sticks,Raw Material,5,box,NA,10,NA,BOM,P06
+RM005,Green Cardamom,Raw Material,5,box,NA,10,NA,BOM,P06
+RM006,Bay Leaves,Raw Material,5,box,NA,10,NA,BOM,P06
+BM001,Fresh Coriander Seeds,Base Material,7,box,NA,10,NA,BOM,P06
+BM002,Fresh Cumin Seeds,Base Material,7,box,NA,10,NA,BOM,P06
+BM003,Fresh Black Peppercorns,Base Material,7,box,NA,10,NA,BOM,P06
+R001,Spice Grinder A1,Resource,6,circle,#32CD32,10,black,Production,P06
+R002,Blending Machine A1,Resource,4,circle,#32CD32,10,black,Production,P06
+R003,Packaging Line A1,Resource,2,circle,#32CD32,10,black,Production,P06
+P07,Sambar Powder 100+100gm,Product,1,box,#2E8B57,16,white,BOM,P07
+PK005,Small Pouch,Packaging,3,box,NA,10,NA,BOM,P07
+PK006,Combo Pack Wrapper,Packaging,3,box,NA,10,NA,BOM,P07
+SF002,Sambar Powder Base Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P07
+RM001,Coriander Seeds,Raw Material,5,box,NA,10,NA,BOM,P07
+RM007,Red Chili Powder,Raw Material,5,box,NA,10,NA,BOM,P07
+RM008,Turmeric Powder,Raw Material,5,box,NA,10,NA,BOM,P07
+RM009,Fenugreek Seeds,Raw Material,5,box,NA,10,NA,BOM,P07
+RM010,Asafoetida,Raw Material,5,box,NA,10,NA,BOM,P07
+BM001,Fresh Coriander Seeds,Base Material,7,box,NA,10,NA,BOM,P07
+BM004,Fresh Red Chilies,Base Material,7,box,NA,10,NA,BOM,P07
+BM005,Fresh Turmeric Roots,Base Material,7,box,NA,10,NA,BOM,P07
+R007,Spice Grinder C1,Resource,6,circle,#32CD32,10,black,Production,P07
+R008,Blending Machine C1,Resource,4,circle,#32CD32,10,black,Production,P07
+R009,Packaging Line C1,Resource,2,circle,#32CD32,10,black,Production,P07
+P08,Curry Powder 250gm,Product,1,box,#2E8B57,16,white,BOM,P08
+PK001,Primary Pouch,Packaging,3,box,NA,10,NA,BOM,P08
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P08
+SF003,Curry Powder Base Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P08
+RM001,Coriander Seeds,Raw Material,5,box,NA,10,NA,BOM,P08
+RM002,Cumin Seeds,Raw Material,5,box,NA,10,NA,BOM,P08
+RM007,Red Chili Powder,Raw Material,5,box,NA,10,NA,BOM,P08
+RM008,Turmeric Powder,Raw Material,5,box,NA,10,NA,BOM,P08
+RM011,Curry Leaves,Raw Material,5,box,NA,10,NA,BOM,P08
+BM001,Fresh Coriander Seeds,Base Material,7,box,NA,10,NA,BOM,P08
+BM002,Fresh Cumin Seeds,Base Material,7,box,NA,10,NA,BOM,P08
+BM004,Fresh Red Chilies,Base Material,7,box,NA,10,NA,BOM,P08
+BM005,Fresh Turmeric Roots,Base Material,7,box,NA,10,NA,BOM,P08
+BM006,Fresh Curry Leaves,Base Material,7,box,NA,10,NA,BOM,P08
+R001,Spice Grinder A1,Resource,6,circle,#32CD32,10,black,Production,P08
+R002,Blending Machine A1,Resource,4,circle,#32CD32,10,black,Production,P08
+R003,Packaging Line A1,Resource,2,circle,#32CD32,10,black,Production,P08
+P09,Chaat Masala 250gm,Product,1,box,#2E8B57,16,white,BOM,P09
+PK001,Primary Pouch,Packaging,3,box,NA,10,NA,BOM,P09
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P09
+SF004,Chaat Masala Base Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P09
+RM002,Cumin Seeds,Raw Material,5,box,NA,10,NA,BOM,P09
+RM003,Black Pepper,Raw Material,5,box,NA,10,NA,BOM,P09
+RM012,Black Salt,Raw Material,5,box,NA,10,NA,BOM,P09
+RM013,Dried Mint Leaves,Raw Material,5,box,NA,10,NA,BOM,P09
+RM014,Amchur Powder,Raw Material,5,box,NA,10,NA,BOM,P09
+BM002,Fresh Cumin Seeds,Base Material,7,box,NA,10,NA,BOM,P09
+BM003,Fresh Black Peppercorns,Base Material,7,box,NA,10,NA,BOM,P09
+BM007,Rock Salt,Base Material,7,box,NA,10,NA,BOM,P09
+BM008,Fresh Mint Leaves,Base Material,7,box,NA,10,NA,BOM,P09
+R007,Spice Grinder C1,Resource,6,circle,#32CD32,10,black,Production,P09
+R008,Blending Machine C1,Resource,4,circle,#32CD32,10,black,Production,P09
+R009,Packaging Line C1,Resource,2,circle,#32CD32,10,black,Production,P09
+P10,Dal Makhani 250gm,Product,1,box,#2E8B57,16,white,BOM,P10
+PK007,Ready Meal Pouch,Packaging,3,box,NA,10,NA,BOM,P10
+PK008,Outer Box,Packaging,3,box,NA,10,NA,BOM,P10
+SF005,Dal Makhani Base,Semi-finished,3,ellipse,NA,10,NA,BOM,P10
+SF006,Makhani Gravy,Semi-finished,3,ellipse,NA,10,NA,BOM,P10
+RM015,Black Urad Dal,Raw Material,5,box,NA,10,NA,BOM,P10
+RM016,Rajma Beans,Raw Material,5,box,NA,10,NA,BOM,P10
+RM017,Onion Powder,Raw Material,5,box,NA,10,NA,BOM,P10
+RM018,Ginger-Garlic Paste,Raw Material,5,box,NA,10,NA,BOM,P10
+RM019,Tomato Puree,Raw Material,5,box,NA,10,NA,BOM,P10
+RM020,Cream,Raw Material,5,box,NA,10,NA,BOM,P10
+RM021,Butter,Raw Material,5,box,NA,10,NA,BOM,P10
+BM009,Fresh Black Urad,Base Material,7,box,NA,10,NA,BOM,P10
+BM010,Fresh Rajma,Base Material,7,box,NA,10,NA,BOM,P10
+BM011,Fresh Tomatoes,Base Material,7,box,NA,10,NA,BOM,P10
+R010,Cooking Vessel A1,Resource,6,circle,#32CD32,10,black,Production,P10
+R011,Retort Machine A1,Resource,4,circle,#32CD32,10,black,Production,P10
+R012,Aseptic Packaging A1,Resource,2,circle,#32CD32,10,black,Production,P10
+P11,Chole 100gm,Product,1,box,#2E8B57,16,white,BOM,P11
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P11
+PK009,Small Ready Meal Pouch,Packaging,3,box,NA,10,NA,BOM,P11
+SF007,Chole Base,Semi-finished,3,ellipse,NA,10,NA,BOM,P11
+SF008,Chole Masala Gravy,Semi-finished,3,ellipse,NA,10,NA,BOM,P11
+RM017,Onion Powder,Raw Material,5,box,NA,10,NA,BOM,P11
+RM018,Ginger-Garlic Paste,Raw Material,5,box,NA,10,NA,BOM,P11
+RM019,Tomato Puree,Raw Material,5,box,NA,10,NA,BOM,P11
+RM022,Dried Chickpeas,Raw Material,5,box,NA,10,NA,BOM,P11
+RM023,Oil,Raw Material,5,box,NA,10,NA,BOM,P11
+SF001,Garam Masala Base Mix,Semi-finished,5,ellipse,NA,10,NA,BOM,P11
+BM011,Fresh Tomatoes,Base Material,7,box,NA,10,NA,BOM,P11
+BM013,Fresh Chickpeas,Base Material,7,box,NA,10,NA,BOM,P11
+RM001,Coriander Seeds,Raw Material,7,box,NA,10,NA,BOM,P11
+RM002,Cumin Seeds,Raw Material,7,box,NA,10,NA,BOM,P11
+RM003,Black Pepper,Raw Material,7,box,NA,10,NA,BOM,P11
+RM004,Cinnamon Sticks,Raw Material,7,box,NA,10,NA,BOM,P11
+RM005,Green Cardamom,Raw Material,7,box,NA,10,NA,BOM,P11
+RM006,Bay Leaves,Raw Material,7,box,NA,10,NA,BOM,P11
+BM001,Fresh Coriander Seeds,Base Material,9,box,NA,10,NA,BOM,P11
+BM002,Fresh Cumin Seeds,Base Material,9,box,NA,10,NA,BOM,P11
+BM003,Fresh Black Peppercorns,Base Material,9,box,NA,10,NA,BOM,P11
+R001,Spice Grinder A1,Resource,8,circle,#32CD32,10,black,Production,P11
+R010,Cooking Vessel A1,Resource,6,circle,#32CD32,10,black,Production,P11
+R011,Retort Machine A1,Resource,4,circle,#32CD32,10,black,Production,P11
+R012,Aseptic Packaging A1,Resource,2,circle,#32CD32,10,black,Production,P11
+P12,Chole 250gm,Product,1,box,#2E8B57,16,white,BOM,P12
+PK007,Ready Meal Pouch,Packaging,3,box,NA,10,NA,BOM,P12
+PK008,Outer Box,Packaging,3,box,NA,10,NA,BOM,P12
+SF007,Chole Base,Semi-finished,3,ellipse,NA,10,NA,BOM,P12
+SF008,Chole Masala Gravy,Semi-finished,3,ellipse,NA,10,NA,BOM,P12
+RM017,Onion Powder,Raw Material,5,box,NA,10,NA,BOM,P12
+RM018,Ginger-Garlic Paste,Raw Material,5,box,NA,10,NA,BOM,P12
+RM019,Tomato Puree,Raw Material,5,box,NA,10,NA,BOM,P12
+RM022,Dried Chickpeas,Raw Material,5,box,NA,10,NA,BOM,P12
+RM023,Oil,Raw Material,5,box,NA,10,NA,BOM,P12
+SF001,Garam Masala Base Mix,Semi-finished,5,ellipse,NA,10,NA,BOM,P12
+BM011,Fresh Tomatoes,Base Material,7,box,NA,10,NA,BOM,P12
+BM013,Fresh Chickpeas,Base Material,7,box,NA,10,NA,BOM,P12
+RM001,Coriander Seeds,Raw Material,7,box,NA,10,NA,BOM,P12
+RM002,Cumin Seeds,Raw Material,7,box,NA,10,NA,BOM,P12
+RM003,Black Pepper,Raw Material,7,box,NA,10,NA,BOM,P12
+RM004,Cinnamon Sticks,Raw Material,7,box,NA,10,NA,BOM,P12
+RM005,Green Cardamom,Raw Material,7,box,NA,10,NA,BOM,P12
+RM006,Bay Leaves,Raw Material,7,box,NA,10,NA,BOM,P12
+BM001,Fresh Coriander Seeds,Base Material,9,box,NA,10,NA,BOM,P12
+BM002,Fresh Cumin Seeds,Base Material,9,box,NA,10,NA,BOM,P12
+BM003,Fresh Black Peppercorns,Base Material,9,box,NA,10,NA,BOM,P12
+R001,Spice Grinder A1,Resource,8,circle,#32CD32,10,black,Production,P12
+R010,Cooking Vessel A1,Resource,6,circle,#32CD32,10,black,Production,P12
+R011,Retort Machine A1,Resource,4,circle,#32CD32,10,black,Production,P12
+R012,Aseptic Packaging A1,Resource,2,circle,#32CD32,10,black,Production,P12
+P13,Chole 500gm,Product,1,box,#2E8B57,16,white,BOM,P13
+PK010,Large Ready Meal Pouch,Packaging,3,box,NA,10,NA,BOM,P13
+PK011,Large Outer Box,Packaging,3,box,NA,10,NA,BOM,P13
+SF007,Chole Base,Semi-finished,3,ellipse,NA,10,NA,BOM,P13
+SF008,Chole Masala Gravy,Semi-finished,3,ellipse,NA,10,NA,BOM,P13
+RM017,Onion Powder,Raw Material,5,box,NA,10,NA,BOM,P13
+RM018,Ginger-Garlic Paste,Raw Material,5,box,NA,10,NA,BOM,P13
+RM019,Tomato Puree,Raw Material,5,box,NA,10,NA,BOM,P13
+RM022,Dried Chickpeas,Raw Material,5,box,NA,10,NA,BOM,P13
+RM023,Oil,Raw Material,5,box,NA,10,NA,BOM,P13
+SF001,Garam Masala Base Mix,Semi-finished,5,ellipse,NA,10,NA,BOM,P13
+BM011,Fresh Tomatoes,Base Material,7,box,NA,10,NA,BOM,P13
+BM013,Fresh Chickpeas,Base Material,7,box,NA,10,NA,BOM,P13
+RM001,Coriander Seeds,Raw Material,7,box,NA,10,NA,BOM,P13
+RM002,Cumin Seeds,Raw Material,7,box,NA,10,NA,BOM,P13
+RM003,Black Pepper,Raw Material,7,box,NA,10,NA,BOM,P13
+RM004,Cinnamon Sticks,Raw Material,7,box,NA,10,NA,BOM,P13
+RM005,Green Cardamom,Raw Material,7,box,NA,10,NA,BOM,P13
+RM006,Bay Leaves,Raw Material,7,box,NA,10,NA,BOM,P13
+BM001,Fresh Coriander Seeds,Base Material,9,box,NA,10,NA,BOM,P13
+BM002,Fresh Cumin Seeds,Base Material,9,box,NA,10,NA,BOM,P13
+BM003,Fresh Black Peppercorns,Base Material,9,box,NA,10,NA,BOM,P13
+R001,Spice Grinder A1,Resource,8,circle,#32CD32,10,black,Production,P13
+R010,Cooking Vessel A1,Resource,6,circle,#32CD32,10,black,Production,P13
+R011,Retort Machine A1,Resource,4,circle,#32CD32,10,black,Production,P13
+R012,Aseptic Packaging A1,Resource,2,circle,#32CD32,10,black,Production,P13
+P14,Chole 1kg,Product,1,box,#2E8B57,16,white,BOM,P14
+PK012,XL Ready Meal Pouch,Packaging,3,box,NA,10,NA,BOM,P14
+PK013,XL Outer Box,Packaging,3,box,NA,10,NA,BOM,P14
+SF007,Chole Base,Semi-finished,3,ellipse,NA,10,NA,BOM,P14
+SF008,Chole Masala Gravy,Semi-finished,3,ellipse,NA,10,NA,BOM,P14
+RM017,Onion Powder,Raw Material,5,box,NA,10,NA,BOM,P14
+RM018,Ginger-Garlic Paste,Raw Material,5,box,NA,10,NA,BOM,P14
+RM019,Tomato Puree,Raw Material,5,box,NA,10,NA,BOM,P14
+RM022,Dried Chickpeas,Raw Material,5,box,NA,10,NA,BOM,P14
+RM023,Oil,Raw Material,5,box,NA,10,NA,BOM,P14
+SF001,Garam Masala Base Mix,Semi-finished,5,ellipse,NA,10,NA,BOM,P14
+BM011,Fresh Tomatoes,Base Material,7,box,NA,10,NA,BOM,P14
+BM013,Fresh Chickpeas,Base Material,7,box,NA,10,NA,BOM,P14
+RM001,Coriander Seeds,Raw Material,7,box,NA,10,NA,BOM,P14
+RM002,Cumin Seeds,Raw Material,7,box,NA,10,NA,BOM,P14
+RM003,Black Pepper,Raw Material,7,box,NA,10,NA,BOM,P14
+RM004,Cinnamon Sticks,Raw Material,7,box,NA,10,NA,BOM,P14
+RM005,Green Cardamom,Raw Material,7,box,NA,10,NA,BOM,P14
+RM006,Bay Leaves,Raw Material,7,box,NA,10,NA,BOM,P14
+BM001,Fresh Coriander Seeds,Base Material,9,box,NA,10,NA,BOM,P14
+BM002,Fresh Cumin Seeds,Base Material,9,box,NA,10,NA,BOM,P14
+BM003,Fresh Black Peppercorns,Base Material,9,box,NA,10,NA,BOM,P14
+R001,Spice Grinder A1,Resource,8,circle,#32CD32,10,black,Production,P14
+R010,Cooking Vessel A1,Resource,6,circle,#32CD32,10,black,Production,P14
+R011,Retort Machine A1,Resource,4,circle,#32CD32,10,black,Production,P14
+R012,Aseptic Packaging A1,Resource,2,circle,#32CD32,10,black,Production,P14
+P15,Biryani 250gm,Product,1,box,#2E8B57,16,white,BOM,P15
+PK007,Ready Meal Pouch,Packaging,3,box,NA,10,NA,BOM,P15
+PK008,Outer Box,Packaging,3,box,NA,10,NA,BOM,P15
+SF009,Biryani Rice Base,Semi-finished,3,ellipse,NA,10,NA,BOM,P15
+SF010,Biryani Masala,Semi-finished,3,ellipse,NA,10,NA,BOM,P15
+RM024,Basmati Rice,Raw Material,5,box,NA,10,NA,BOM,P15
+RM025,Saffron,Raw Material,5,box,NA,10,NA,BOM,P15
+RM026,Fried Onions,Raw Material,5,box,NA,10,NA,BOM,P15
+RM027,Mint Leaves,Raw Material,5,box,NA,10,NA,BOM,P15
+RM028,Chicken/Veg Pieces,Raw Material,5,box,NA,10,NA,BOM,P15
+RM029,Yogurt,Raw Material,5,box,NA,10,NA,BOM,P15
+SF001,Garam Masala Base Mix,Semi-finished,5,ellipse,NA,10,NA,BOM,P15
+BM015,Premium Basmati,Base Material,7,box,NA,10,NA,BOM,P15
+BM016,Kashmir Saffron,Base Material,7,box,NA,10,NA,BOM,P15
+RM001,Coriander Seeds,Raw Material,7,box,NA,10,NA,BOM,P15
+RM002,Cumin Seeds,Raw Material,7,box,NA,10,NA,BOM,P15
+RM003,Black Pepper,Raw Material,7,box,NA,10,NA,BOM,P15
+RM004,Cinnamon Sticks,Raw Material,7,box,NA,10,NA,BOM,P15
+RM005,Green Cardamom,Raw Material,7,box,NA,10,NA,BOM,P15
+RM006,Bay Leaves,Raw Material,7,box,NA,10,NA,BOM,P15
+BM001,Fresh Coriander Seeds,Base Material,9,box,NA,10,NA,BOM,P15
+BM002,Fresh Cumin Seeds,Base Material,9,box,NA,10,NA,BOM,P15
+BM003,Fresh Black Peppercorns,Base Material,9,box,NA,10,NA,BOM,P15
+R001,Spice Grinder A1,Resource,8,circle,#32CD32,10,black,Production,P15
+R013,Cooking Vessel B1,Resource,6,circle,#32CD32,10,black,Production,P15
+R014,Retort Machine B1,Resource,4,circle,#32CD32,10,black,Production,P15
+R015,Aseptic Packaging B1,Resource,2,circle,#32CD32,10,black,Production,P15
+P16,Chole 100+100gm,Product,1,box,#2E8B57,16,white,BOM,P16
+PK006,Combo Pack Wrapper,Packaging,3,box,NA,10,NA,BOM,P16
+PK009,Small Ready Meal Pouch,Packaging,3,box,NA,10,NA,BOM,P16
+SF007,Chole Base,Semi-finished,3,ellipse,NA,10,NA,BOM,P16
+SF008,Chole Masala Gravy,Semi-finished,3,ellipse,NA,10,NA,BOM,P16
+RM017,Onion Powder,Raw Material,5,box,NA,10,NA,BOM,P16
+RM018,Ginger-Garlic Paste,Raw Material,5,box,NA,10,NA,BOM,P16
+RM019,Tomato Puree,Raw Material,5,box,NA,10,NA,BOM,P16
+RM022,Dried Chickpeas,Raw Material,5,box,NA,10,NA,BOM,P16
+RM023,Oil,Raw Material,5,box,NA,10,NA,BOM,P16
+SF001,Garam Masala Base Mix,Semi-finished,5,ellipse,NA,10,NA,BOM,P16
+BM011,Fresh Tomatoes,Base Material,7,box,NA,10,NA,BOM,P16
+BM013,Fresh Chickpeas,Base Material,7,box,NA,10,NA,BOM,P16
+RM001,Coriander Seeds,Raw Material,7,box,NA,10,NA,BOM,P16
+RM002,Cumin Seeds,Raw Material,7,box,NA,10,NA,BOM,P16
+RM003,Black Pepper,Raw Material,7,box,NA,10,NA,BOM,P16
+RM004,Cinnamon Sticks,Raw Material,7,box,NA,10,NA,BOM,P16
+RM005,Green Cardamom,Raw Material,7,box,NA,10,NA,BOM,P16
+RM006,Bay Leaves,Raw Material,7,box,NA,10,NA,BOM,P16
+BM001,Fresh Coriander Seeds,Base Material,9,box,NA,10,NA,BOM,P16
+BM002,Fresh Cumin Seeds,Base Material,9,box,NA,10,NA,BOM,P16
+BM003,Fresh Black Peppercorns,Base Material,9,box,NA,10,NA,BOM,P16
+R001,Spice Grinder A1,Resource,8,circle,#32CD32,10,black,Production,P16
+R016,Assembly Line C1,Resource,6,circle,#32CD32,10,black,Production,P16
+R017,Quality Check C1,Resource,4,circle,#32CD32,10,black,Production,P16
+R018,Combo Packaging C1,Resource,2,circle,#32CD32,10,black,Production,P16
+P17,Biryani 100+100gm,Product,1,box,#2E8B57,16,white,BOM,P17
+PK006,Combo Pack Wrapper,Packaging,3,box,NA,10,NA,BOM,P17
+PK009,Small Ready Meal Pouch,Packaging,3,box,NA,10,NA,BOM,P17
+SF009,Biryani Rice Base,Semi-finished,3,ellipse,NA,10,NA,BOM,P17
+SF010,Biryani Masala,Semi-finished,3,ellipse,NA,10,NA,BOM,P17
+RM024,Basmati Rice,Raw Material,5,box,NA,10,NA,BOM,P17
+RM025,Saffron,Raw Material,5,box,NA,10,NA,BOM,P17
+RM026,Fried Onions,Raw Material,5,box,NA,10,NA,BOM,P17
+RM027,Mint Leaves,Raw Material,5,box,NA,10,NA,BOM,P17
+RM028,Chicken/Veg Pieces,Raw Material,5,box,NA,10,NA,BOM,P17
+RM029,Yogurt,Raw Material,5,box,NA,10,NA,BOM,P17
+SF001,Garam Masala Base Mix,Semi-finished,5,ellipse,NA,10,NA,BOM,P17
+BM015,Premium Basmati,Base Material,7,box,NA,10,NA,BOM,P17
+BM016,Kashmir Saffron,Base Material,7,box,NA,10,NA,BOM,P17
+RM001,Coriander Seeds,Raw Material,7,box,NA,10,NA,BOM,P17
+RM002,Cumin Seeds,Raw Material,7,box,NA,10,NA,BOM,P17
+RM003,Black Pepper,Raw Material,7,box,NA,10,NA,BOM,P17
+RM004,Cinnamon Sticks,Raw Material,7,box,NA,10,NA,BOM,P17
+RM005,Green Cardamom,Raw Material,7,box,NA,10,NA,BOM,P17
+RM006,Bay Leaves,Raw Material,7,box,NA,10,NA,BOM,P17
+BM001,Fresh Coriander Seeds,Base Material,9,box,NA,10,NA,BOM,P17
+BM002,Fresh Cumin Seeds,Base Material,9,box,NA,10,NA,BOM,P17
+BM003,Fresh Black Peppercorns,Base Material,9,box,NA,10,NA,BOM,P17
+R001,Spice Grinder A1,Resource,8,circle,#32CD32,10,black,Production,P17
+R016,Assembly Line C1,Resource,6,circle,#32CD32,10,black,Production,P17
+R017,Quality Check C1,Resource,4,circle,#32CD32,10,black,Production,P17
+R018,Combo Packaging C1,Resource,2,circle,#32CD32,10,black,Production,P17
+P18,Masala Peanuts 250gm,Product,1,box,#2E8B57,16,white,BOM,P18
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P18
+PK014,Snack Pouch,Packaging,3,box,NA,10,NA,BOM,P18
+SF011,Masala Peanut Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P18
+RM007,Red Chili Powder,Raw Material,5,box,NA,10,NA,BOM,P18
+RM030,Raw Peanuts,Raw Material,5,box,NA,10,NA,BOM,P18
+RM031,Chickpea Flour,Raw Material,5,box,NA,10,NA,BOM,P18
+RM032,Salt,Raw Material,5,box,NA,10,NA,BOM,P18
+BM004,Fresh Red Chilies,Base Material,7,box,NA,10,NA,BOM,P18
+BM017,Farm Peanuts,Base Material,7,box,NA,10,NA,BOM,P18
+R019,Fryer A1,Resource,6,circle,#32CD32,10,black,Production,P18
+R020,Seasoning Drum A1,Resource,4,circle,#32CD32,10,black,Production,P18
+R021,Packaging Line A1,Resource,2,circle,#32CD32,10,black,Production,P18
+P19,Aloo Bhujia 250gm,Product,1,box,#2E8B57,16,white,BOM,P19
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P19
+PK014,Snack Pouch,Packaging,3,box,NA,10,NA,BOM,P19
+SF012,Aloo Bhujia Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P19
+RM031,Chickpea Flour,Raw Material,5,box,NA,10,NA,BOM,P19
+RM032,Salt,Raw Material,5,box,NA,10,NA,BOM,P19
+RM033,Potato Starch,Raw Material,5,box,NA,10,NA,BOM,P19
+RM034,Edible Oil,Raw Material,5,box,NA,10,NA,BOM,P19
+BM018,Fresh Potatoes,Base Material,7,box,NA,10,NA,BOM,P19
+R022,Extruder B1,Resource,6,circle,#32CD32,10,black,Production,P19
+R023,Fryer B1,Resource,4,circle,#32CD32,10,black,Production,P19
+R024,Packaging Line B1,Resource,2,circle,#32CD32,10,black,Production,P19
+P20,Moong Dal Namkeen 250gm,Product,1,box,#2E8B57,16,white,BOM,P20
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P20
+PK014,Snack Pouch,Packaging,3,box,NA,10,NA,BOM,P20
+SF013,Moong Dal Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P20
+RM032,Salt,Raw Material,5,box,NA,10,NA,BOM,P20
+RM034,Edible Oil,Raw Material,5,box,NA,10,NA,BOM,P20
+RM035,Split Moong Dal,Raw Material,5,box,NA,10,NA,BOM,P20
+RM036,Cumin Powder,Raw Material,5,box,NA,10,NA,BOM,P20
+BM019,Whole Moong Dal,Base Material,7,box,NA,10,NA,BOM,P20
+R025,Preparation Unit C1,Resource,6,circle,#32CD32,10,black,Production,P20
+R026,Fryer C1,Resource,4,circle,#32CD32,10,black,Production,P20
+R027,Packaging Line C1,Resource,2,circle,#32CD32,10,black,Production,P20
+P21,Masala Peanuts 500gm,Product,1,box,#2E8B57,16,white,BOM,P21
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P21
+PK015,Large Snack Pouch,Packaging,3,box,NA,10,NA,BOM,P21
+SF011,Masala Peanut Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P21
+RM007,Red Chili Powder,Raw Material,5,box,NA,10,NA,BOM,P21
+RM030,Raw Peanuts,Raw Material,5,box,NA,10,NA,BOM,P21
+RM031,Chickpea Flour,Raw Material,5,box,NA,10,NA,BOM,P21
+RM032,Salt,Raw Material,5,box,NA,10,NA,BOM,P21
+BM004,Fresh Red Chilies,Base Material,7,box,NA,10,NA,BOM,P21
+BM017,Farm Peanuts,Base Material,7,box,NA,10,NA,BOM,P21
+R019,Fryer A1,Resource,6,circle,#32CD32,10,black,Production,P21
+R020,Seasoning Drum A1,Resource,4,circle,#32CD32,10,black,Production,P21
+R021,Packaging Line A1,Resource,2,circle,#32CD32,10,black,Production,P21
+P22,Sev 250gm,Product,1,box,#2E8B57,16,white,BOM,P22
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P22
+PK014,Snack Pouch,Packaging,3,box,NA,10,NA,BOM,P22
+SF014,Sev Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P22
+RM031,Chickpea Flour,Raw Material,5,box,NA,10,NA,BOM,P22
+RM032,Salt,Raw Material,5,box,NA,10,NA,BOM,P22
+RM034,Edible Oil,Raw Material,5,box,NA,10,NA,BOM,P22
+RM037,Ajwain,Raw Material,5,box,NA,10,NA,BOM,P22
+BM020,Fresh Ajwain Seeds,Base Material,7,box,NA,10,NA,BOM,P22
+R022,Extruder B1,Resource,6,circle,#32CD32,10,black,Production,P22
+R023,Fryer B1,Resource,4,circle,#32CD32,10,black,Production,P22
+R024,Packaging Line B1,Resource,2,circle,#32CD32,10,black,Production,P22
+P23,Sev 500gm,Product,1,box,#2E8B57,16,white,BOM,P23
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P23
+PK015,Large Snack Pouch,Packaging,3,box,NA,10,NA,BOM,P23
+SF014,Sev Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P23
+RM031,Chickpea Flour,Raw Material,5,box,NA,10,NA,BOM,P23
+RM032,Salt,Raw Material,5,box,NA,10,NA,BOM,P23
+RM034,Edible Oil,Raw Material,5,box,NA,10,NA,BOM,P23
+RM037,Ajwain,Raw Material,5,box,NA,10,NA,BOM,P23
+BM020,Fresh Ajwain Seeds,Base Material,7,box,NA,10,NA,BOM,P23
+R022,Extruder B1,Resource,6,circle,#32CD32,10,black,Production,P23
+R023,Fryer B1,Resource,4,circle,#32CD32,10,black,Production,P23
+R024,Packaging Line B1,Resource,2,circle,#32CD32,10,black,Production,P23
+P24,Dosa Mix 500gm,Product,1,box,#2E8B57,16,white,BOM,P24
+PK016,Mix Packet,Packaging,3,box,NA,10,NA,BOM,P24
+PK017,Recipe Card,Packaging,3,box,NA,10,NA,BOM,P24
+SF015,Dosa Powder Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P24
+RM032,Salt,Raw Material,5,box,NA,10,NA,BOM,P24
+RM038,Rice Flour,Raw Material,5,box,NA,10,NA,BOM,P24
+RM039,Urad Dal Flour,Raw Material,5,box,NA,10,NA,BOM,P24
+RM040,Fenugreek Powder,Raw Material,5,box,NA,10,NA,BOM,P24
+BM021,Parboiled Rice,Base Material,7,box,NA,10,NA,BOM,P24
+R028,Mixer A1,Resource,6,circle,#32CD32,10,black,Production,P24
+R029,Sieving Machine A1,Resource,4,circle,#32CD32,10,black,Production,P24
+R030,Packaging Line A1,Resource,2,circle,#32CD32,10,black,Production,P24
+P25,Dosa Mix 1kg,Product,1,box,#2E8B57,16,white,BOM,P25
+PK017,Recipe Card,Packaging,3,box,NA,10,NA,BOM,P25
+PK018,Large Mix Packet,Packaging,3,box,NA,10,NA,BOM,P25
+SF015,Dosa Powder Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P25
+RM032,Salt,Raw Material,5,box,NA,10,NA,BOM,P25
+RM038,Rice Flour,Raw Material,5,box,NA,10,NA,BOM,P25
+RM039,Urad Dal Flour,Raw Material,5,box,NA,10,NA,BOM,P25
+RM040,Fenugreek Powder,Raw Material,5,box,NA,10,NA,BOM,P25
+BM021,Parboiled Rice,Base Material,7,box,NA,10,NA,BOM,P25
+R028,Mixer A1,Resource,6,circle,#32CD32,10,black,Production,P25
+R029,Sieving Machine A1,Resource,4,circle,#32CD32,10,black,Production,P25
+R030,Packaging Line A1,Resource,2,circle,#32CD32,10,black,Production,P25
+P26,Chili Pickle 500gm,Product,1,box,#2E8B57,16,white,BOM,P26
+PK019,Pickle Jar,Packaging,3,box,NA,10,NA,BOM,P26
+PK020,Jar Label,Packaging,3,box,NA,10,NA,BOM,P26
+SF016,Chili Pickle Base,Semi-finished,3,ellipse,NA,10,NA,BOM,P26
+RM032,Salt,Raw Material,6,box,NA,10,NA,BOM,P26
+RM041,Green Chilies,Raw Material,6,box,NA,10,NA,BOM,P26
+RM042,Mustard Oil,Raw Material,6,box,NA,10,NA,BOM,P26
+RM043,Mustard Seeds,Raw Material,6,box,NA,10,NA,BOM,P26
+R031,Preparation Unit B1,Resource,5,circle,#32CD32,10,black,Production,P26
+R032,Fermentation Tank B1,Resource,4,circle,#32CD32,10,black,Production,P26
+R033,Jar Filling Line B1,Resource,2,circle,#32CD32,10,black,Production,P26
+P27,Mixed Veg Pickle 500gm,Product,1,box,#2E8B57,16,white,BOM,P27
+PK019,Pickle Jar,Packaging,3,box,NA,10,NA,BOM,P27
+PK020,Jar Label,Packaging,3,box,NA,10,NA,BOM,P27
+SF017,Mixed Veg Pickle Base,Semi-finished,3,ellipse,NA,10,NA,BOM,P27
+RM032,Salt,Raw Material,6,box,NA,10,NA,BOM,P27
+RM042,Mustard Oil,Raw Material,6,box,NA,10,NA,BOM,P27
+RM044,Mixed Vegetables,Raw Material,6,box,NA,10,NA,BOM,P27
+RM045,Pickle Masala,Raw Material,6,box,NA,10,NA,BOM,P27
+R031,Preparation Unit B1,Resource,5,circle,#32CD32,10,black,Production,P27
+R032,Fermentation Tank B1,Resource,4,circle,#32CD32,10,black,Production,P27
+R033,Jar Filling Line B1,Resource,2,circle,#32CD32,10,black,Production,P27
+P28,Plain Papad 250gm,Product,1,box,#2E8B57,16,white,BOM,P28
+PK002,Secondary Label,Packaging,3,box,NA,10,NA,BOM,P28
+PK021,Papad Pack,Packaging,3,box,NA,10,NA,BOM,P28
+SF018,Papad Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P28
+RM032,Salt,Raw Material,6,box,NA,10,NA,BOM,P28
+RM046,Urad Dal Flour,Raw Material,6,box,NA,10,NA,BOM,P28
+RM047,Black Pepper Powder,Raw Material,6,box,NA,10,NA,BOM,P28
+R034,Dough Mixer C1,Resource,5,circle,#32CD32,10,black,Production,P28
+R035,Drying Unit C1,Resource,4,circle,#32CD32,10,black,Production,P28
+R036,Packaging Line C1,Resource,2,circle,#32CD32,10,black,Production,P28
+P29,Ragi Flakes 500gm,Product,1,box,#2E8B57,16,white,BOM,P29
+PK022,Cereal Box,Packaging,3,box,NA,10,NA,BOM,P29
+PK023,Nutrition Label,Packaging,3,box,NA,10,NA,BOM,P29
+SF019,Ragi Flakes Mix,Semi-finished,3,ellipse,NA,10,NA,BOM,P29
+RM048,Ragi Grains,Raw Material,6,box,NA,10,NA,BOM,P29
+RM049,Natural Sweetener,Raw Material,6,box,NA,10,NA,BOM,P29
+RM050,Vitamin Mix,Raw Material,6,box,NA,10,NA,BOM,P29
+R037,Flaking Machine C2,Resource,5,circle,#32CD32,10,black,Production,P29
+R038,Fortification Unit C2,Resource,4,circle,#32CD32,10,black,Production,P29
+R039,Cereal Packaging C2,Resource,2,circle,#32CD32,10,black,Production,P29
+P30,Makhana 250gm,Product,1,box,#2E8B57,16,white,BOM,P30
+PK023,Nutrition Label,Packaging,3,box,NA,10,NA,BOM,P30
+PK024,Premium Snack Pack,Packaging,3,box,NA,10,NA,BOM,P30
+SF020,Roasted Makhana,Semi-finished,3,ellipse,NA,10,NA,BOM,P30
+RM051,Raw Makhana,Raw Material,6,box,NA,10,NA,BOM,P30
+RM052,Rock Salt,Raw Material,6,box,NA,10,NA,BOM,P30
+RM053,Natural Flavoring,Raw Material,6,box,NA,10,NA,BOM,P30
+R040,Roasting Unit C3,Resource,5,circle,#32CD32,10,black,Production,P30
+R041,Seasoning Unit C3,Resource,4,circle,#32CD32,10,black,Production,P30
+R042,Premium Packaging C3,Resource,2,circle,#32CD32,10,black,Production,P30
