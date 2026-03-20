@@ -25,3 +25,4 @@ R, Shiny, bslib, visNetwork, tidyverse
 | `bom_prod_nodes_data.csv` | BOM network nodes |
 | `prod_dist_edges_data.csv` | Distribution network edges |
 | `prod_dist_nodes_data.csv` | Distribution network nodes |
+![App Demo](https://github.com/SanthoshRaj56501234/supply-chain-network-planner/blob/c3acfe324f14675393bfed6c7a03addb4194eb6c/ScreenRecording2026-03-20at8.27.51AM-ezgif.com-video-to-gif-converter.gif)
